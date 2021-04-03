@@ -9,4 +9,4 @@ The javascript is listening for either an enter or a submission of the "Filter t
 ## Files of interest in this reposiory
 Index.html - main html that calls the javascript and data .js files<br />
 UFO-level-1\static\js\data.js  - creates variable "data" which is a list of dictionaries with UFO sighting details<br />
-UFO-level-1\static\js\app.js - javascript code used to append UFO sigting data to the html table and listen for a submission/enter of the date form in order to fileter the data as selected in the form<br />
+UFO-level-1\static\js\app.js - javascript code used to append UFO sigting data to the html table and listen for a submission/enter of the date form in order to filter the data as selected in the form<br />
