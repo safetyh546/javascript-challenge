@@ -1,7 +1,7 @@
 # javascript-challenge
 
 ## UFO Sighting Data
--This code is published at Github here: https://safetyh546.github.io/javascript-challenge/<br />
+-The UFO Level 2 code is published at Github here: https://safetyh546.github.io/javascript-challenge/<br />
 -javascript is used to append data to an html table and display on intial page load<br />
 -The user is able to enter multiple search criteria (date,city,state,country,shape) in the forms provided and the html table will filter down to selected criteria<br />
 
