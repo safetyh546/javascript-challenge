@@ -4,8 +4,9 @@
 -The UFO Level 2 code is published at Github here: https://safetyh546.github.io/javascript-challenge/<br />
 -javascript is used to append data to an html table and display on intial page load<br />
 -The user is able to enter multiple search criteria (date,city,state,country,shape) in the forms provided and the html table will filter down to selected criteria<br />
--The filter criteria are optional, you can use 1 or all 5
--Each submission of the Filter Table button will be use the search criteria given against the full dataset
+-The filter criteria are optional, you can use 1 or all 5<br />
+-If no filter crteria provided, the full dataset will remain visible<br />
+-Each submission of the Filter Table button will be use the search criteria given against the full dataset<br />
 -The user can get all data back after filtering by refreshing page or clicking the "UFO Sightings" button in top left of page<br />
 
 
